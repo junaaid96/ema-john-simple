@@ -2,8 +2,12 @@
     width: 200px;
     border: 1px black solid;
     border-radius: 5px;
-    margin: 5px;
+    margin: 20px;
     padding: 5px;
+}
+
+.product img {
+    width: 100%;
 }
 
 .product-title{
