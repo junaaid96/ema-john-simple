@@ -1,0 +1,18 @@
+.shop {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.products-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cart-container {
+    height: 500px;
+    border: 1px black solid;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    background-color: aliceblue;
+}
